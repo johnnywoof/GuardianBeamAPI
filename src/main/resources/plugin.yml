@@ -1,0 +1,6 @@
+name: GuardianBeamAPI
+version: '$version'
+description: Developer API to create Guardian Beams
+author: Jaxon A Brown
+main: net.jaxonbrown.guardianbeam.GuardianBeamAPI
+depend: [ProtocolLib]
