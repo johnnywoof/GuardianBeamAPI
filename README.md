@@ -27,6 +27,8 @@ beam.setStartingPosition(newLocation);
 ```
 And all of the code is documented.
 
+Download: https://gitlab.com/johnnywoof/GuardianBeamAPI/-/jobs/artifacts/master/download?job=build
+
 Contributing
 --------
 I encourage anyone with an idea to fork this project and submit a pull request! I want this to be a community driven project, so I'd be glad to accept any PRs that meet reasonable quality standards.
